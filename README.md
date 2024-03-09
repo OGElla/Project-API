@@ -1,5 +1,5 @@
-# Healthtracker REST API
-____
+# Healthtracker project
+## Healthtracker REST API
 ```
 GET /health/view/:id
 POST /health/daily
