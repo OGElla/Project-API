@@ -1,4 +1,7 @@
 # Healthtracker project
+```
+HealthTracker is an innovative and user-friendly application designed to empower individuals in managing and monitoring their health and wellness. 
+```
 ## Healthtracker REST API
 ```
 GET /health/view/:id
