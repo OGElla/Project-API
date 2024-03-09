@@ -20,3 +20,8 @@ Table healthtracker{
     version int
 }
 ```
+Table users{
+  username varchar(50)
+  password text
+}
+```
