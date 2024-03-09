@@ -25,3 +25,7 @@ Table users{
   password text
 }
 ```
+## Authors
+```
+Dussekenov Elnar 21B030333 @depayka
+```
