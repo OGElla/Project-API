@@ -19,7 +19,7 @@ Table healthtracker{
     sleep text
     version int
 }
-```
+
 Table users{
   username varchar(50)
   password text
